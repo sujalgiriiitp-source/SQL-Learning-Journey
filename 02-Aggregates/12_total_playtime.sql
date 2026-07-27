@@ -1,4 +1,4 @@
--- Total Playtime ⏱️
+-- Total Playtime --
 -- Codédex
 
 SELECT SUM(duration)
